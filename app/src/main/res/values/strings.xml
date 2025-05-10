@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Modular PAMI Vinicius SharedPreferences</string>
+    <string name="email">Email:</string>
+    <string name="senha">Senha:</string>
+    <string name="login">Login</string>
+    <string name="gravar">Gravar</string>
+    <string name="cadastrar">Cadastrar</string>
+</resources>
